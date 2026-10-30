@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 1175e45d685ae8345804f31748e5a77d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 50
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639289717480090058
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 640
+      height: 360
+    spriteID: d331234fa95196247bce49c8b57ad598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: faci 1
+    originalName: 
+    pivot: {x: -0.9433962, y: -0.77192986}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 169
+      width: 106
+      height: 114
+    spriteID: e55478b2bf336614a90395bd035fd186
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 169}
+  - name: faci 2
+    originalName: 
+    pivot: {x: -2.483146, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 847
+      y: 94
+      width: 89
+      height: 88
+    spriteID: a19c73da67762ab419a323fe39ad3b85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 94}
+  - name: faci 3
+    originalName: 
+    pivot: {x: 1.8058252, y: -1.0731708}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 847
+      y: 4
+      width: 103
+      height: 82
+    spriteID: 564e1dbfdf307bd4ab5cc978768ef0d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 4}
+  - name: faci 4
+    originalName: 
+    pivot: {x: 3.360465, y: -1.4915254}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 291
+      width: 86
+      height: 59
+    spriteID: cd140fd666f724643b54aa69bdc7886a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 291}
+  - name: Rocket Pad
+    originalName: 
+    pivot: {x: 0.271028, y: -0.5541401}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 4
+      width: 107
+      height: 157
+    spriteID: d0b041ea3983284489031649a5c7d8e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 4}
+  - name: Rocket
+    originalName: 
+    pivot: {x: 0.3888888, y: -0.72222227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 767
+      y: 4
+      width: 72
+      height: 144
+    spriteID: 854f24cdf7b03104db9b2fae55686685
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 767, y: 4}
+  - name: Add Module BOX
+    originalName: 
+    pivot: {x: -3.1690142, y: -2.9428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 847
+      y: 190
+      width: 71
+      height: 35
+    spriteID: e66dfe6adab57804ca4384e871247cf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 190}
+  - name: Flattened
+    originalName: 
+    pivot: {x: 0.5940171, y: -2.8055553}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 740
+      width: 468
+      height: 36
+    spriteID: 53438216d6508f641913951557b3f0ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 740}
+  - name: Flattened_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 372
+      width: 640
+      height: 360
+    spriteID: fb3fcccaa9c4aec42bd60a147d285d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 372}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -7500616
+    name: Layer 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Layer 1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      spriteId: d331234fa95196247bce49c8b57ad598
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 1
+    guid: 1807256780
+    name: faci 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: faci 1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 420
+        y: 88
+        width: 106
+        height: 114
+      spriteId: e55478b2bf336614a90395bd035fd186
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 2
+    guid: -2084425989
+    name: faci 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: faci 2
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 541
+        y: 88
+        width: 89
+        height: 88
+      spriteId: a19c73da67762ab419a323fe39ad3b85
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 3
+    guid: 644457366
+    name: faci 3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: faci 3
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 134
+        y: 88
+        width: 103
+        height: 82
+      spriteId: 564e1dbfdf307bd4ab5cc978768ef0d0
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 4
+    guid: 1403972253
+    name: faci 4
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: faci 4
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 88
+        width: 86
+        height: 59
+      spriteId: cd140fd666f724643b54aa69bdc7886a
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 5
+    guid: 740018549
+    name: Rocket Pad
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Rocket Pad
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 291
+        y: 87
+        width: 107
+        height: 157
+      spriteId: d0b041ea3983284489031649a5c7d8e5
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 6
+    guid: -1273669126
+    name: Rocket
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Rocket
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 292
+        y: 104
+        width: 72
+        height: 144
+      spriteId: 854f24cdf7b03104db9b2fae55686685
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 7
+    guid: 469040606
+    name: Add Module BOX
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Add Module BOX
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 545
+        y: 103
+        width: 71
+        height: 35
+      spriteId: e66dfe6adab57804ca4384e871247cf4
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 8
+    guid: 1811441645
+    name: Flattened
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Flattened
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 101
+        width: 468
+        height: 36
+      spriteId: 53438216d6508f641913951557b3f0ba
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 9
+    guid: -1131685705
+    name: Flattened_1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Flattened_1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      spriteId: fb3fcccaa9c4aec42bd60a147d285d8c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 640, y: 360}
+  previousTextureSize: {x: 1024, y: 1024}

@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 8978dbbcfece4f945bbfc281a274589a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 50
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639289720571870124
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Top Bar Pane
+    originalName: 
+    pivot: {x: 0.5, y: -9.909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 325
+      width: 640
+      height: 33
+    spriteID: 2ce69882f5b46a140b02b7e389245366
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 325}
+  - name: oney Icon
+    originalName: 
+    pivot: {x: -27.09091, y: -19.705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 876
+      y: 69
+      width: 11
+      height: 17
+    spriteID: c6ab288f1da8e2842816452c97f40f3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 876, y: 69}
+  - name: Control Button
+    originalName: 
+    pivot: {x: 0.70422536, y: -19.705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 530
+      y: 4
+      width: 426
+      height: 17
+    spriteID: 924cc2fd9f8153347bcc5f0ce9e097c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 530, y: 4}
+  - name: Launch
+    originalName: 
+    pivot: {x: -5.3999996, y: -16.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 752
+      y: 69
+      width: 20
+      height: 20
+    spriteID: 32ce8845d999e5c4590ab2016efe4ce0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 752, y: 69}
+  - name: Expanded Panel
+    originalName: 
+    pivot: {x: 0.42664093, y: -0.11821086}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 518
+      height: 313
+    spriteID: 991b7abb5407e744994b2957eefd6e01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Card
+    originalName: 
+    pivot: {x: -2.227273, y: -0.99999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 530
+      y: 29
+      width: 66
+      height: 89
+    spriteID: 7e1e4c5c8134a1243866507a690f3d1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 530, y: 29}
+  - name: Button EQuip Inactive
+    originalName: 
+    pivot: {x: -3.6744184, y: -7.8333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 925
+      y: 29
+      width: 43
+      height: 12
+    spriteID: 7b69bad0d2505d744bacecf4801f6573
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 925, y: 29}
+  - name: Card
+    originalName: 
+    pivot: {x: -3.3333335, y: -2.0898876}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 29
+      width: 66
+      height: 89
+    spriteID: 2ef23f927e24e9f4cb5bfa730a13ec18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 29}
+  - name: Button EQuip
+    originalName: 
+    pivot: {x: -5.3720927, y: -15.916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 976
+      y: 29
+      width: 43
+      height: 12
+    spriteID: a004c9efa1204ac42badc0d7d527b8ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 976, y: 29}
+  - name: Card
+    originalName: 
+    pivot: {x: -2.227273, y: -2.0898876}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 678
+      y: 29
+      width: 66
+      height: 89
+    spriteID: f9a14ae10778c6b4c81d1ba3931a5d0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 678, y: 29}
+  - name: Button EQuip Hover
+    originalName: 
+    pivot: {x: -3.6744184, y: -15.916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 925
+      y: 49
+      width: 43
+      height: 12
+    spriteID: cc582b9f094bf704c86c1da06a93a7d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 925, y: 49}
+  - name: Cross Button Hover
+    originalName: 
+    pivot: {x: -21.384615, y: -25.545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 976
+      y: 49
+      width: 13
+      height: 11
+    spriteID: e56380e7d9c56304a871a9459a3cc88b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 976, y: 49}
+  - name: Buttons
+    originalName: 
+    pivot: {x: -1.0357141, y: -2.8235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 964
+      y: 4
+      width: 56
+      height: 17
+    spriteID: 6f35ffb1734c7ea47a524fda9c51c279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 964, y: 4}
+  - name: Lower Menu Bar
+    originalName: 
+    pivot: {x: 1.939394, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 752
+      y: 29
+      width: 165
+      height: 32
+    spriteID: f8505a6687ee08e4fa9fa76983af8f9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 752, y: 29}
+  - name: Contracts
+    originalName: 
+    pivot: {x: 19.1875, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 780
+      y: 69
+      width: 16
+      height: 18
+    spriteID: 931e811a5b82f294aa79a254250a6d13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 780, y: 69}
+  - name: Testing
+    originalName: 
+    pivot: {x: 12, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 69
+      width: 16
+      height: 18
+    spriteID: d72390a2b16311442b740760ad405fb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 69}
+  - name: Training
+    originalName: 
+    pivot: {x: 17.1875, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 828
+      y: 69
+      width: 16
+      height: 18
+    spriteID: 2df338e2c375d66459b1d97d017033c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 828, y: 69}
+  - name: Build
+    originalName: 
+    pivot: {x: 14.4375, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 852
+      y: 69
+      width: 16
+      height: 18
+    spriteID: 84c6f7d6a70375c4a8573d441cd8f3fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 852, y: 69}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 3
+    guid: 1716927144
+    name: Top Bar
+    layerFlags: 35
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 4
+    guid: 778536033
+    name: Top Bar Pane
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Top Bar Pane
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 327
+        width: 640
+        height: 33
+      spriteId: 2ce69882f5b46a140b02b7e389245366
+    linkedCells: []
+    parentIndex: 3
+  - layerIndex: 5
+    guid: 2101136735
+    name: oney Icon
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: oney Icon
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 618
+        y: 335
+        width: 11
+        height: 17
+      spriteId: c6ab288f1da8e2842816452c97f40f3f
+    linkedCells: []
+    parentIndex: 3
+  - layerIndex: 6
+    guid: 768862582
+    name: Control Button
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Control Button
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 335
+        width: 426
+        height: 17
+      spriteId: 924cc2fd9f8153347bcc5f0ce9e097c1
+    linkedCells: []
+    parentIndex: 3
+  - layerIndex: 7
+    guid: -784167590
+    name: Launch
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Launch
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 428
+        y: 333
+        width: 20
+        height: 20
+      spriteId: 32ce8845d999e5c4590ab2016efe4ce0
+    linkedCells: []
+    parentIndex: 3
+  - layerIndex: 8
+    guid: 816567845
+    name: EXpanded Panel
+    layerFlags: 35
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 9
+    guid: -1412319777
+    name: Expanded Panel
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Expanded Panel
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 99
+        y: 37
+        width: 518
+        height: 313
+      spriteId: 991b7abb5407e744994b2957eefd6e01
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 10
+    guid: 1985052210
+    name: Item Card Copy
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 11
+    guid: -1989682763
+    name: Card
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Card
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 467
+        y: 89
+        width: 66
+        height: 89
+      spriteId: 7e1e4c5c8134a1243866507a690f3d1b
+    linkedCells: []
+    parentIndex: 10
+  - layerIndex: 12
+    guid: 1192447364
+    name: Button EQuip Inactive
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Button EQuip Inactive
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 478
+        y: 94
+        width: 43
+        height: 12
+      spriteId: 7b69bad0d2505d744bacecf4801f6573
+    linkedCells: []
+    parentIndex: 10
+  - layerIndex: 13
+    guid: 1317484310
+    name: Item Card Copy_1
+    layerFlags: 35
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 14
+    guid: 1768024115
+    name: Card
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Card
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 540
+        y: 186
+        width: 66
+        height: 89
+      spriteId: 2ef23f927e24e9f4cb5bfa730a13ec18
+    linkedCells: []
+    parentIndex: 13
+  - layerIndex: 15
+    guid: -463105931
+    name: Button EQuip
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Button EQuip
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 551
+        y: 191
+        width: 43
+        height: 12
+      spriteId: a004c9efa1204ac42badc0d7d527b8ad
+    linkedCells: []
+    parentIndex: 13
+  - layerIndex: 16
+    guid: -916009573
+    name: Item Card
+    layerFlags: 35
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 17
+    guid: 822245376
+    name: Card
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Card
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 467
+        y: 186
+        width: 66
+        height: 89
+      spriteId: f9a14ae10778c6b4c81d1ba3931a5d0e
+    linkedCells: []
+    parentIndex: 16
+  - layerIndex: 18
+    guid: -1092973104
+    name: Button EQuip Hover
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Button EQuip Hover
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 478
+        y: 191
+        width: 43
+        height: 12
+      spriteId: cc582b9f094bf704c86c1da06a93a7d5
+    linkedCells: []
+    parentIndex: 16
+  - layerIndex: 19
+    guid: 515549404
+    name: Cross Button Hover
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cross Button Hover
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 598
+        y: 281
+        width: 13
+        height: 11
+      spriteId: e56380e7d9c56304a871a9459a3cc88b
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 20
+    guid: -405817407
+    name: Buttons
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Buttons
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 378
+        y: 48
+        width: 56
+        height: 17
+      spriteId: 6f35ffb1734c7ea47a524fda9c51c279
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 21
+    guid: -1702797643
+    name: LOWER Panel
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 22
+    guid: -1403424517
+    name: Lower Menu Bar
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Lower Menu Bar
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 165
+        height: 32
+      spriteId: f8505a6687ee08e4fa9fa76983af8f9a
+    linkedCells: []
+    parentIndex: 21
+  - layerIndex: 23
+    guid: 1495879857
+    name: Icon lower Menu
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 21
+  - layerIndex: 24
+    guid: -418564745
+    name: Contracts
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Contracts
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 8
+        width: 16
+        height: 18
+      spriteId: 931e811a5b82f294aa79a254250a6d13
+    linkedCells: []
+    parentIndex: 23
+  - layerIndex: 25
+    guid: 1278215914
+    name: Testing
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Testing
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 128
+        y: 8
+        width: 16
+        height: 18
+      spriteId: d72390a2b16311442b740760ad405fb8
+    linkedCells: []
+    parentIndex: 23
+  - layerIndex: 26
+    guid: -905189772
+    name: Training
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Training
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 7
+        width: 16
+        height: 18
+      spriteId: 2df338e2c375d66459b1d97d017033c3
+    linkedCells: []
+    parentIndex: 23
+  - layerIndex: 27
+    guid: -1886666922
+    name: Build
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Build
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 89
+        y: 7
+        width: 16
+        height: 18
+      spriteId: 84c6f7d6a70375c4a8573d441cd8f3fe
+    linkedCells: []
+    parentIndex: 23
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 640, y: 360}
+  previousTextureSize: {x: 1024, y: 512}
